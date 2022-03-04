@@ -1,0 +1,6 @@
+framework module Pods_ReminderApplication_ReminderApplicationUITests {
+  umbrella header "Pods-ReminderApplication-ReminderApplicationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
